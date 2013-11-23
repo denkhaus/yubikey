@@ -1,6 +1,7 @@
 {
   "name": "yuikey",
   "description": "A simple Javascript warapper around the Node package yub. See https://npmjs.org/package/yub",
+
   "homepage": "https://github.com/denkhaus/yubikey",
   "author": "Brain Loop aka denkhaus",
   "version": "0.0.1",
